@@ -1,0 +1,183 @@
+body {
+    padding: 50px;
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+    color: #00B7FF;
+}
+
+div.error {
+    margin: 0px;
+    /*background-image: linear-gradient(90deg, orange, white);*/
+    background-color: salmon;
+    color: whitesmoke;
+    padding: 30px;
+    margin: 30px;
+    border-radius: 5px;
+    max-width: 100%;
+}
+
+
+/* Stimulant ------------------------------------------- */
+
+div.stimulant {
+    font: 20px "Lucida Grande", Helvetica, Arial, sans-serif;
+    -webkit-animation-duration: 7s;
+    animation-duration: 7s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+    -webkit-animation-name: fadeOut;
+    animation-name: fadeOut;
+}
+
+@-webkit-keyframes fadeOut {
+    0% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 1;
+    }
+    55% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 0;
+    }
+}
+
+@keyframes fadeOut {
+    0% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 1;
+    }
+    55% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 0;
+    }
+}
+
+
+/* ------------------------------------------- */
+
+div.fullChallengeRange {
+    /*background-color: rgb(0, 4, 255);*/
+    border-color: black;
+    border-style: double;
+    border-radius: 5px;
+    margin: 30px;
+}
+
+div.currentChallenge {
+    background: hsla(43, 89%, 38%, 1);
+    background: linear-gradient(0deg, hsla(43, 89%, 38%, 1) 0%, hsla(244, 55%, 44%, 1) 100%);
+    background: -moz-linear-gradient(0deg, hsla(43, 89%, 38%, 1) 0%, hsla(244, 55%, 44%, 1) 100%);
+    background: -webkit-linear-gradient(0deg, hsla(43, 89%, 38%, 1) 0%, hsla(244, 55%, 44%, 1) 100%);
+    text-align: right;
+    color: white;
+    padding: 3px 5px 3px 0;
+    border-radius: 5px;
+    animation: progress 2s ease;
+}
+
+@keyframes progress {
+    0% {
+        width: 3%;
+        /* damit Zahl Platz hat */
+    }
+}
+
+div.header {
+    padding: 50px;
+    color: darkgoldenrod;
+    font: 50px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+div.question {
+    font: 20px "Lucida Grande", Helvetica, Arial, sans-serif;
+    margin: 30px;
+}
+
+div.questionRemark {
+    font: 12px "Lucida Grande", Helvetica, Arial, sans-serif;
+    margin: 30px;
+}
+
+div.content {
+    background-color: aliceblue;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+form#MCForm {
+    margin: 30px;
+    background-color: bisque;
+    padding: 30px;
+    max-width: 100%;
+}
+
+div.MCAnswer {
+    color: darkslategrey;
+    margin: 10px;
+    max-width: 100%;
+}
+
+div.mcOptionEntry {
+    display: inline;
+    font: 20px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+div.MCAnswer label input {
+    margin-right: 20px;
+}
+
+#sortable {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+#sortable li {
+    margin: 0 3px 3px 3px;
+    padding: 0.4em;
+    padding-left: 1.5em;
+    font-size: 1.4em;
+}
+
+#sortable li span {
+    position: absolute;
+    margin-left: -1.3em;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+}
+
+td,
+th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+span.code {
+    background-color: blanchedalmond;
+    color: black;
+    font-family: monospace;
+    font-weight: bold;
+}
+
+span.target {
+    color: red;
+    font-style: italic;
+}
