@@ -1,9 +1,5 @@
-Klicken sie hier um zum Thema [Cookies](https://github.com/Michael-Friedlos/m231-portfolio/tree/main/m231-portfolio-main/Cookies) zu gelangen.
+Klicken sie hier um zur Datei [Cookies MF](https://github.com/Michael-Friedlos/m231-portfolio/blob/main/m231-portfolio-main/Auftr%C3%A4ge/Cookies/Cookies%20MF.pdf) zu gelangen.
 
-Klicken sie hier um zum [Foxtrail](https://github.com/Michael-Friedlos/m231-portfolio/tree/main/m231-portfolio-main/Foxtrail) zu gelangen.
+Klicken sie hier um zur Datei [Cookies und Webseiten](https://github.com/Michael-Friedlos/m231-portfolio/blob/main/m231-portfolio-main/Auftr%C3%A4ge/Cookies/Cookies%20und%20Webseiten.pdf) zu gelangen.
 
-Klicken sie hier um zum Thema [Pinguine](https://github.com/Michael-Friedlos/m231-portfolio/tree/main/m231-portfolio-main/Pinguine) zu gelangen.
-
-Klicken sie hier um zur [Excel Tabelle](https://github.com/Michael-Friedlos/m231-portfolio/blob/main/m231-portfolio-main/Excel%20Tabelle%20als%20Bild.png) zu gelangen.
-
-Klicken sie hier um zum [Cheat Sheet Markdown](https://www.markdownguide.org/cheat-sheet/) zu gelangen.
+Klicken sie hier um zur Datei [Cookies](https://github.com/Michael-Friedlos/m231-portfolio/tree/main/m231-portfolio-main/Auftr%C3%A4ge/Cookies) zu gelangen.
