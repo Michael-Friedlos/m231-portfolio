@@ -4,6 +4,6 @@ Klicken sie hier um zum README [Foxtrail](https://github.com/Michael-Friedlos/m2
 
 Klicken sie hier um zum README [Pinguine](https://github.com/Michael-Friedlos/m231-portfolio/blob/main/m231-portfolio-main/README%20Pinguine.md) zu gelangen.
 
-Klicken sie hier um zur [Excel Tabelle](https://github.com/Michael-Friedlos/m231-portfolio/blob/main/m231-portfolio-main/Excel%20Tabelle%20als%20Bild.png) zu gelangen.
+Klicken sie hier um zur [Excel Tabelle](https://github.com/Michael-Friedlos/m231-portfolio/blob/main/m231-portfolio-main/Auftr%C3%A4ge/Excel%20Tabelle%20als%20Bild.png) zu gelangen.
 
 Klicken sie hier um zum [Cheat Sheet Markdown](https://www.markdownguide.org/cheat-sheet/) zu gelangen.
