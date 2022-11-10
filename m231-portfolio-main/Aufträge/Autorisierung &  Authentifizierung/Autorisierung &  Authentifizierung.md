@@ -18,4 +18,4 @@ Authentisierung bezeichnet das Nachweisen einer Identität. Authentifizierung be
 
 https://www.perseus.de/2022/04/19/authentisierung-authentifizierung-und-autorisierung/#:~:text=Authentisierung%20bezeichnet%20das%20Nachweisen%20einer,der%20erfolgreich%20nachgewiesenen%20Identit%C3%A4t%20zustehen
 
-![alt text](Auth-Auth.svg)
+![alt text](Autor-Authen.svg)
