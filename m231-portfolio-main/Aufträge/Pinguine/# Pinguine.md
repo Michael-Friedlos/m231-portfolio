@@ -1,4 +1,4 @@
-##Pinguine
+## Pinguine
 
 ![alt text](Pinguine.jfif)
 
@@ -6,7 +6,7 @@ Die Pinguine (Spheniscidae) sind eine Gruppe flugunfähiger Seevögel der Südha
 
 
 
-###Spiele
+### Spiele
 
 Folgende Browserspiele beinhalten **Pinguine** als Entities:
 
@@ -19,7 +19,7 @@ Folgende Browserspiele beinhalten **Pinguine** als Entities:
 
 
 
-###Pinguin-Gattungen
+### Pinguin-Gattungen
 
 - Langschwanzpinguine
     - Eselspinguin
@@ -41,7 +41,7 @@ Folgende Browserspiele beinhalten **Pinguine** als Entities:
 
 
 
-###Aufzucht
+### Aufzucht
 
 Die Aufzucht der Jungen Pinguine lässt sich in zwei Phasen unterteilen:
 
@@ -51,7 +51,7 @@ Die Aufzucht der Jungen Pinguine lässt sich in zwei Phasen unterteilen:
 
 
 
-###Welt-Pinguin_Tag
+### Welt-Pinguin_Tag
 
 Sprüche zum Welt-Pinguin-Tag.
 
@@ -61,7 +61,7 @@ Sprüche zum Welt-Pinguin-Tag.
 
 >Drei von vier Stimmen in meinem Kopf wollen schlafen. Eine möchte unbedigt wissen, ob Pinguine Knie haben.
 
-###Hallo-Pinguin-Programm
+### Hallo-Pinguin-Programm
 
 Hier findet ihr den Code für das Hallo Pinguin Programm in Python:
 
@@ -72,7 +72,7 @@ ascii_banner = pyfiglet.figlet_format("Hallo Pingu!")
 print(ascii_banner)
 ```
 
-###Offene Todos
+### Offene Todos
 
 - [x] Install Script Add requirements.txt
 - [ ] Use *graffiti* font
